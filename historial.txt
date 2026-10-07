@@ -1,0 +1,5 @@
+ping -n 11 127.0.0.1;-1;5018
+sleep 10;1;36
+dir;0;40
+echo haha;0;53
+sort archivo.txt;1;47
